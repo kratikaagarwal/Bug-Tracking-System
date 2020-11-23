@@ -1,3 +1,6 @@
+There are 6 tables which can be copied using following code in MySql or Oracle Database.
+
+
 CREATE TABLE  "BUG" 
    (	"BUGID" NUMBER NOT NULL ENABLE, 
 	"USERID" VARCHAR2(4000), 
