@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login</title>
+	<link rel="icon"  type="image/png" href="images/bug.png">
+	<style type="text/css">
+				body{
+	background:url('images/background.jpg');
+	position: relative;
+}
+.container{
+	position: absolute;
+top:80px;
+left:25%;
+width:50%;
+	overflow: hidden;
+	background-color: #aec1e6;
+	padding: 30px;
+}
+#image{margin-left: 40%;
+}
+.box{
+	border-radius: 1em;
+	background:#19448a;
+color:#fff;
+	min-width:50%;
+	margin:0 10%;
+	position: relative;
+
+}
+.box h4{
+background:#aaa2f5;
+	
+	color:#181063;
+	font-size: 20px;
+	
+	text-align: center;
+	padding: 10px;
+
+	border-radius: .6em 0.6em 0em 0em;
+}
+.box1{
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+}
+select{
+	background:#c9cff2;
+	text-align: center;
+	color:#181063;
+}
+
+.myform input[type="text"],input[type="password"]{
+	margin:3%;
+	border:none;
+	background:none;
+	border-bottom: 1px #fff solid;
+	color:#fff;
+	font-size: 16px;
+	margin-right:6%;
+}
+
+.btn{
+border-radius: .7em;
+background:#aaa2f5;
+	color:#181063;
+	padding:10px 30px;
+	margin:3%;
+	font-size: 17px;
+}
+.btn:hover{
+	background-color: pink;
+}
+a{
+	text-decoration: none;
+	color:#ccc;
+}
+a:hover{color:coral;}
+</style>
+
+</head>
+<body>
+<div class="container">
+	<div id="image"><a href="index.html"><img src="images/home.png"></a></div>
+	<div class="box">
+		<h4>Sign In</h4>
+		<div class="box1">
+			
+                        <form class="myform" action="login.jsp" method="post">
+                            <label>Login as</label>
+			<select name="logintype">
+                            <option value="0" selected disabled>User</option>
+				<option value="admin">Admin</option>
+				<option value="customer">Customer</option>
+				<option value="expert">Expert</option>
+			</select>
+			<div><label>User Id:</label>
+		<input type="text" name="userId" placeholder="user123" required></div>
+		<div><label>Password:</label>
+		<input type="password" name="pwd" required></div>
+		<input type="submit" name="login" value="Sign In" class="btn">
+		</form>
+		<h3>New User? Please <a href="signup.jsp">Sign Up here..</a></h3>
+</div>
+
+	</div>
+
+
+</div>
+</body>
+</html>
