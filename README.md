@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/kratikaagarwal/Art-Generation-Using-Deep-Learning">
-    <img src="https://github.com/kratikaagarwal/Art-Generation-Using-Deep-Learning/blob/main/src/flask_pack/static/images/logo6.png" alt="Logo" width="120" height="80">
+  <a href="https://github.com/kratikaagarwal/Bug-Tracking-System">
+    <img src="https://github.com/kratikaagarwal/Bug-Tracking-System/blob/main/WebContent/images/bug.png" alt="Logo" width="120" height="80">
   </a>
 
-  <h3 align="center"> Art Generation Using Deep Learning</h3>
+  <h3 align="center">Bug Tracking System</h3>
 
  
 ## About The Project
