@@ -13,3 +13,13 @@ The users of the product can directly report new bugs found in it and the admin 
 The project is developed using JSP,Java Servlets,HTML,CSS and Javascript.
 IDE used -Eclipse
 Database used-Oracle 11g Express Edition.
+
+## Screenshots
+
+![Screenshot](https://github.com/kratikaagarwal/Art-Generation-Using-Deep-Learning/blob/main/src/flask_pack/static/screenshots/Picture1.jpg)
+![Screenshot](https://github.com/kratikaagarwal/Art-Generation-Using-Deep-Learning/blob/main/src/flask_pack/static/screenshots/Picture2.jpg)
+![Screenshot](https://github.com/kratikaagarwal/Art-Generation-Using-Deep-Learning/blob/main/src/flask_pack/static/screenshots/Picture3.jpg)
+![Screenshot](https://github.com/kratikaagarwal/Art-Generation-Using-Deep-Learning/blob/main/src/flask_pack/static/screenshots/Picture4.jpg)
+![Screenshot](https://github.com/kratikaagarwal/Art-Generation-Using-Deep-Learning/blob/main/src/flask_pack/static/screenshots/Picture5.jpg)
+![Screenshot](https://github.com/kratikaagarwal/Art-Generation-Using-Deep-Learning/blob/main/src/flask_pack/static/screenshots/Picture6.jpg)
+![Screenshot](https://github.com/kratikaagarwal/Art-Generation-Using-Deep-Learning/blob/main/src/flask_pack/static/screenshots/Picture7.jpg)
