@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/kratikaagarwal/Bug-Tracking-System">
-    <img src="https://github.com/kratikaagarwal/Bug-Tracking-System/blob/main/WebContent/images/bug.png" alt="Logo" width="120" height="80">
+    <img src="https://github.com/kratikaagarwal/Bug-Tracking-System/blob/main/WebContent/images/bug.png" alt="Logo" width="120" height="80"
+         style="border-radius: 50%;>
   </a>
 
   <h3 align="center">Bug Tracking System</h3>
